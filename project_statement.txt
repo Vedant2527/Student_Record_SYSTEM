@@ -1,0 +1,27 @@
+PROJECT STATEMENT
+
+Project Title: Student Record System
+
+Objective:
+The objective of this project is to create a simple Python program for managing
+basic student information through a command-line menu.
+
+Description:
+The program stores student details such as registration number, name, course,
+CGPA, and state. It provides options to add a new student, search for a record,
+delete a record, update existing details, and display all available records.
+
+Concepts Used:
+- Variables and dictionaries
+- Functions
+- while loop
+- if-elif-else statements
+- User input and output
+
+Limitation:
+Student records are stored in memory only. They are not saved after the program
+is closed.
+
+Conclusion:
+This project demonstrates how basic Python concepts can be used to create a
+menu-driven student record management program.
